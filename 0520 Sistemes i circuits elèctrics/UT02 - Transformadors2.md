@@ -138,9 +138,9 @@ Quan es disposa d'un circuit que inclou un transformador monofàsic ideal (com a
 
 $$
 \begin{array}{ccc}
-& S_b~(\text{VA}) & \\[5mm]
-U_{b1}~(\text{V}) & U_{b1}/U_{b2} = r_t & U_{b2}~(\text{V}) \\[5mm]
-I_{b1} = \dfrac{S_b}{U_{b1}}~(\text{A}) & & I_{b2} = \dfrac{S_b}{U_{b2}}~(\text{A}) \\[5mm]
+& S_b~(\text{VA}) & \\\\[5mm]
+U_{b1}~(\text{V}) & U_{b1}/U_{b2} = r_t & U_{b2}~(\text{V}) \\\\[5mm]
+I_{b1} = \dfrac{S_b}{U_{b1}}~(\text{A}) & & I_{b2} = \dfrac{S_b}{U_{b2}}~(\text{A}) \\\\[5mm]
 Z_{b1} = \dfrac{U_{b1}^2}{S_b}~(\Omega) & & Z_{b2} = \dfrac{U_{b2}^2}{S_b}~(\Omega)
 \end{array}
 $$
