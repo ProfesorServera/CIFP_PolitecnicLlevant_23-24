@@ -161,9 +161,9 @@ Aquesta darrera serà la que s'utilitzarà en aquesta assignatura.
 
 $$
 \begin{array}{ccc}
-& S_b^{p.u.} = S_N~(\text{VA}) & \\[5mm]
-U_{b1}^{p.u.} = U_{N1}~(\text{V}) & U_{b1}^{p.u.}/U_{b2}^{p.u.} = r_t&U_{b2}^{p.u.} = U_{N2}~(\text{V}) \\[5mm]
-I_{b1}^{p.u.} = \dfrac{S_N}{U_{N1}}~(\text{A})&&I_{b2}^{p.u.} = \dfrac{S_N}{U_{N2}}~(\text{A})\\[5mm]
+& S_b^{p.u.} = S_N~(\text{VA}) & \\\\[5mm]
+U_{b1}^{p.u.} = U_{N1}~(\text{V}) & U_{b1}^{p.u.}/U_{b2}^{p.u.} = r_t&U_{b2}^{p.u.} = U_{N2}~(\text{V}) \\\\[5mm]
+I_{b1}^{p.u.} = \dfrac{S_N}{U_{N1}}~(\text{A})&&I_{b2}^{p.u.} = \dfrac{S_N}{U_{N2}}~(\text{A})\\\\[5mm]
 Z_{b1}^{p.u.} = \dfrac{U_{N1}^{2}}{S_N}~(\Omega)&&Z_{N2}^{p.u.} = \dfrac{U_{N2}^{2}}{S_N}~(\Omega)\end{array}
 $$
 
